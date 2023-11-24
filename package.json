@@ -1,0 +1,19 @@
+{
+  "name": "create-express-app",
+  "version": "1.0.0",
+  "description": "Only CLI Tool you need to get started with Express!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvrajjsingh0/create-express-app.git"
+  },
+  "author": "Yuvraj Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvrajjsingh0/create-express-app/issues"
+  },
+  "homepage": "https://github.com/yuvrajjsingh0/create-express-app#readme"
+}
